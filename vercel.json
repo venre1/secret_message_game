@@ -1,0 +1,12 @@
+{
+    "routes":[
+        {
+            "src": "/",
+            "dest" :"/"
+        },
+        {
+            "src":"/secretmessage.js",
+            "dest":"secretmessage.js"
+        }
+    ]
+}
