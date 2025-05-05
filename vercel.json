@@ -1,12 +1,8 @@
 {
-    "routes":[
-        {
-            "src": "/",
-            "dest" :"/"
-        },
-        {
-            "src":"/secretmessage.js",
-            "dest":"secretmessage.js"
-        }
+    "routes": [
+      { "src": "/", "dest": "/secretmessage.html" },
+      { "src": "/secretmessage.js", "dest": "/secretmessage.js" },
+      { "src": "/secretmessage.html", "dest": "/secretmessage.html" }
     ]
-}
+  }
+  
